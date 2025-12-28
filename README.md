@@ -3,7 +3,11 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bittu-mondal-a06258313) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mondalbittu169@gmail.com) [![LeetCode](https://img.shields.io/badge/Solve%20on-LeetCode-%23007B5.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/bittu12345/) [![HackerRank](https://img.shields.io/badge/Solve%20on-HackerRank-%2300EA64.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/mondalbittu169)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bittu-mondal-a06258313)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mondalbittu169@gmail.com)
+[![LeetCode](https://img.shields.io/badge/Solve%20on-LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=black)](https://leetcode.com/u/bittu12345/)
+[![HackerRank](https://img.shields.io/badge/Solve%20on-HackerRank-%2300EA64.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/mondalbittu169)
+
 
 
 # 💻 Tech Stack:
