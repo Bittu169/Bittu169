@@ -22,17 +22,33 @@
 
 # 📌 Featured Projects
 
-### 🚗 Car Price Prediction
-Machine Learning project that predicts car prices using regression algorithms.
+### 🤖 [AI Powered Job Scraper](https://github.com/Bittu169/AI_Powered_Job_Scrapper)
+An AI-powered Python application that automatically scrapes job listings from websites and filters relevant opportunities using intelligent data processing techniques.
 
-### 🎓 Student Management System
-Full-stack project built using **React + Django** for managing student records.
+---
 
-### 🎵 Music Player Web App
-Interactive music player with **play, pause, next, previous and lyrics support**.
+### 🎬 [Video Recommendation System](https://github.com/Bittu169/video_recommendation)
+A recommendation system that suggests videos based on similarity and user interest using machine learning and data processing techniques.
 
-### 🌐 Portfolio Website
-Personal responsive portfolio website showcasing projects and skills.
+---
+
+### 🌐 [Google Inspired Portfolio Website](https://github.com/Bittu169/Google-portfolio)
+A modern Google-style developer portfolio website built using HTML, CSS, and JavaScript to showcase projects, skills, and contact information.
+
+---
+
+### 🚗 [Car Price Predictor](https://github.com/Bittu169/car-price-predictor)
+Machine Learning project that predicts car prices using Python, Pandas, NumPy, and regression models.
+
+---
+
+### 🌦️ [Weather App](https://github.com/Bittu169/WeatherApp)
+A web application that displays real-time weather information using API integration.
+
+---
+
+### 🍽️ [Restaurant Website](https://github.com/Bittu169/resturant)
+A responsive restaurant website featuring menu display, UI design, and interactive frontend elements using HTML, CSS, and JavaScript.
 
 ---
 
